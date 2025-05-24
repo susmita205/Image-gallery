@@ -11,8 +11,8 @@ It was made as part of my web development learning journey.
 ## 📁 Files
 
 - `index.html` — Main HTML file
-- `style.css` — CSS styling
-- `images/` — Folder containing all gallery images
+- `test.css` — CSS styling
+- `images` — Folder containing all gallery images
 
 
 ## 💡 Note
